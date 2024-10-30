@@ -1,6 +1,4 @@
 # Surfactant Literature <!-- omit from toc -->
-## Robotlab, Radboud University <!-- omit from toc -->
-Author: Pim Dankloff
 > A curated list of literature with regard to surfactant chemistry, in context of the robotlab.
 
 ## Contents <!-- omit from toc -->
@@ -24,11 +22,9 @@ Author: Pim Dankloff
 ### Image-based Tensiometry
 
 ### Refractive index
-- [Rapid method for measurement of surface tension in multiwell plates](https://www.sciencedirect.com/science/article/pii/S0023683722022413). Cottingham, M. G.; Bain, C. D.; Vaux, D. J. T. *Laboratory Investigation* **84**(4), 523–529. Elsevier, 2004.  
-  
-  :pencil:
-    - high-throughput
-    - measuring a proxy property: 'absorbance instead of surface tension'
+- [Rapid method for measurement of surface tension in multiwell plates](https://www.sciencedirect.com/science/article/pii/S0023683722022413). Cottingham, M. G.; Bain, C. D.; Vaux, D. J. T. *Laboratory Investigation* **84**(4), 523–529. Elsevier, 2004.
+> high-throughput
+> measuring a proxy property: 'absorbance instead of surface tension'
 
 
 ## Kinetics
