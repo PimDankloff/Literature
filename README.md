@@ -23,8 +23,8 @@
 
 ### Refractive index
 - [Rapid method for measurement of surface tension in multiwell plates](https://www.sciencedirect.com/science/article/pii/S0023683722022413). Cottingham, M. G.; Bain, C. D.; Vaux, D. J. T. *Laboratory Investigation* **84**(4), 523–529. Elsevier, 2004.
-> high-throughput
-> measuring a proxy property: 'absorbance instead of surface tension'
+  - high-throughput  
+  - measuring a proxy property: 'absorbance instead of surface tension'
 
 
 ## Kinetics
