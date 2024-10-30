@@ -32,18 +32,25 @@
 ## Kinetics
 
 ## Models
-- [A model for monomer and micellar concentrations in surfactant solutions: Application to conductivity, NMR, diffusion, and surface tension data](https://www.sciencedirect.com/science/article/pii/S0021979711015268). Al-Soufi, W.; Piñeiro, L.; Novo, M. *Journal of Colloid and Interface Science* **370**(1), 102–110, 2012.  
-> contains model for free surfactant concentration
+[A model for monomer and micellar concentrations in surfactant solutions: Application to conductivity, NMR, diffusion, and surface tension data](https://www.sciencedirect.com/science/article/pii/S0021979711015268). Al-Soufi, W.; Piñeiro, L.; Novo, M. *Journal of Colloid and Interface Science* **370**(1), 102–110, 2012.  
 
-- [Machine learning hybrid approach for the prediction of surface tension profiles of hydrocarbon surfactants in aqueous solution](https://doi.org/10.1016/j.jcis.2022.05.035). Seddon, D.; Müller, E. A.; Cabral, J. T. *Journal of Colloid and Interface Science* **625**, 328–339. Elsevier, 2022.  
+*notes*
+  - contains model for free surfactant concentration  
+* * * * * * * * * * *  
+[Machine learning hybrid approach for the prediction of surface tension profiles of hydrocarbon surfactants in aqueous solution](https://doi.org/10.1016/j.jcis.2022.05.035). Seddon, D.; Müller, E. A.; Cabral, J. T. *Journal of Colloid and Interface Science* **625**, 328–339. Elsevier, 2022.  
   
-  :pencil:
-    - simplified szyszkowski model
-- [Hansen Solubility Parameters for Directly Dealing with Surface and Interfacial Phenomena](https://pubs.acs.org/doi/10.1021/acs.langmuir.3c00913). Murase, M.; Nakamura, D. *Langmuir* **39**(30), 10475–10484. 2023.  
-  
-  :pencil:
-    - using Hansen parameters to predict surface tension
-    - does not preform well
+*notes*
+  - simplified szyszkowski model
+* * * * * * * * * * *  
 
-- [Surfactant-{Specific} {AI}-{Driven} {Molecular} {Design}: {Integrating} {Generative} {Models}, {Predictive} {Modeling}, and {Reinforcement} {Learning} for {Tailored} {Surfactant} {Synthesis}](https://doi.org/10.1021/acs.iecr.4c00401). Nnadili, Miriam; Okafor, Andrew N.; Olayiwola, Teslim; Akinpelu, David; Kumar, Revati; Romagnoli, Jose A.. *Industrial \& Engineering Chemistry Research* **63**(14), 6313--6324. , 2024.
+[Hansen Solubility Parameters for Directly Dealing with Surface and Interfacial Phenomena](https://pubs.acs.org/doi/10.1021/acs.langmuir.3c00913). Murase, M.; Nakamura, D. *Langmuir* **39**(30), 10475–10484. 2023.  
+  
+*notes*
+  - using Hansen parameters to predict surface tension
+  - does not preform well
+* * * * * * * * * * *  
+
+[Surfactant-{Specific} {AI}-{Driven} {Molecular} {Design}: {Integrating} {Generative} {Models}, {Predictive} {Modeling}, and {Reinforcement} {Learning} for {Tailored} {Surfactant} {Synthesis}](https://doi.org/10.1021/acs.iecr.4c00401). Nnadili, Miriam; Okafor, Andrew N.; Olayiwola, Teslim; Akinpelu, David; Kumar, Revati; Romagnoli, Jose A.. *Industrial \& Engineering Chemistry Research* **63**(14), 6313--6324. , 2024.
+
+*notes*
 
